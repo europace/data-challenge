@@ -2,8 +2,8 @@
 
 ### Aufgabe
 
-Finde interessante Zusammenhänge in den Daten und stelle ein Supervised-Learning-Modell deiner Wahl auf.
+[Hier](./data.csv) findest du einen Datensatz über Kreditentscheidungen des US-Bundesstaats New York inklusive Eigenschaften der Antragsteller und Immobilien.
 
-Die Daten beinhalten Kreditentscheidungen des US-Bundesstaats New York inklusive Eigenschaften der Antragsteller und Immobilien.
+Finde interessante Zusammenhänge in den Daten und stelle ein Supervised-Learning-Modell deiner Wahl auf.
 
 Die Aufgabe hilft uns dabei, deine Skills als Data Scientist einzuschätzen, also tob dich aus!
