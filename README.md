@@ -2,7 +2,7 @@
 
 ### Aufgabe
 
-[Hier](./data.csv) findest du einen Datensatz über Kreditentscheidungen des US-Bundesstaats New York inklusive Eigenschaften der Antragsteller und Immobilien.
+[Hier](./data.csv) findest du einen Datensatz über Kreditentscheidungen im US-Bundesstaat New York inklusive der Eigenschaften der Antragsteller und Immobilien.
 
 Finde interessante Zusammenhänge in den Daten und stelle ein Supervised-Learning-Modell deiner Wahl auf.
 
