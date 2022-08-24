@@ -1,0 +1,28 @@
+action_taken_name;The action taken on the loan or application, such as whether an application was approved or denied. Loan originated means the application resulted in a mortgage. Loan purchased means that the lender bought the loan on the secondary market.
+agency_name;The federal agency to which the HMDA-reporting institution submits its HMDA data.
+applicant_ethnicity_name;The ethnicity of the primary applicant.
+applicant_income_000s;The gross annual income that the lender relied on when evaluating the creditworthiness of the applicant, rounded to the nearest thousand.
+applicant_race_name_1;The first listed race for the primary applicant.
+applicant_sex_name;The sex of the primary applicant.
+co_applicant_ethnicity_name;The ethnicity of the co-applicant.
+co_applicant_race_name_1;The first listed race for the co-applicant.
+co_applicant_sex_name;The sex of the co-applicant.
+county_name;The name of the county containing the property.
+denial_reason_name_1;The first reason for denial of the application. Lenders may report up to three denial reasons, but such reporting is optional.
+denial_reason_name_2;The second reason for denial of the application.
+denial_reason_name_3;The third reason for denial of the application.
+hoepa_status_name;The HOEPA status of the application representing whether a loan is subject to the Home Ownership and Equity Protection Act of 1994 (HOEPA).
+hud_median_family_income;The median family income in dollars for the MSA/MD (Metropolitian Statistical Area/Metropolitian Division) in which the tract is located.
+lien_status_name;The lien status. Most mortgages are secured by a lien against the property. In the event of a forced liquidation, first lien holders will generally get paid before subordinate lien holders.
+loan_amount_000s;The amount of the loan applied for, in thousands of dollars.
+loan_purpose_name;The purpose of the loan (home purchase, refinance, or home improvement).
+loan_type_name;The type of loan applied for. Many loans are insured or guaranteed by government programs offered by Federal Housing Administration (FHA), the Department of Veterans Affairs (VA), or the Department of Agriculture's Rural Housing Service (RHS) or Farm Service Agency (FSA). All other loans are classified as conventional.
+minority_population;The percentage of minority population to total population for the census tract, carried to two decimal places.
+msamd_name;The Metropolitian Statistical Area/Metropolitian Division (MSA/MD) the property is located in. An MSA is a region with relatively high population density at its core (usually a single large city) and close economic ties throughout. Larger MSAs are divided into MDs.
+number_of_1_to_4_family_units;The number of dwellings in the tract that are built to house fewer than 5 families.
+number_of_owner_occupied_units;The number of dwellings in the tract that are lived in by the owner.
+owner_occupancy_name;The owner-occupancy status of the property. Second homes, vacation homes, and rental properties are classified as "not owner-occupied as a principal dwelling".
+population;The total population in the tract.
+preapproval_name;The pre-approval status of the application.
+property_type_name;The type of the property.
+purchaser_type_name;The type of institution purchasing the loan.
